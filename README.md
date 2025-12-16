@@ -65,4 +65,4 @@ This repository **DOES NOT** contain any ROM files or game code. It only contain
 
 - **Tag Anywhere Mod**: Created by Isotarge - The mod that makes this game infinitely more replayable.
 - **CaVE Database Manager**: The essential tool for NSO modding.
-- **Testing/Configuration**: Tuned by [Your Username].
+- **Updated dtz**: Tuned by 0xKnowles.
